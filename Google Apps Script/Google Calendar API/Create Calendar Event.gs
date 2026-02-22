@@ -1,4 +1,4 @@
-// -- Create Calendar Event -- //
+// -- Google Calendar API: Create Calendar Event -- //
 
 function createCalendarEvent() {
 
